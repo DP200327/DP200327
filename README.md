@@ -2,16 +2,26 @@
 
 ---
 
-<h3>About Me</h3>
+<div style="position: relative; height: 100vh; overflow: hidden; color: white; text-align: center;">
 
-<p>
-🎓 I’m currently a <b>student at Sabaragamuwa University of Sri Lanka</b> <br>  
-🌱 I’m focusing on <b>Java, Web Development, Networking, Project Planning, and UI/UX Designing</b> <br>   
-📫 How to reach me <a href="mailto:dinalthathsaraperaketiya@gmail.com" target="_blank"><b>dinalthathsaraperaketiya@gmail.com</b></a> <br>  
-🤝 I’m open to collaborating on <b>beginner-friendly projects and learning together</b> <br>  
-🎯 Goal: <b>mprove my skills, start working on my own IT company, and begin creating my own video game </b> <br>  
-</p>
-<hr>
+  <!-- Background Video -->
+  <video autoplay muted loop playsinline style="position: absolute; width: 100%; height: 100%; object-fit: cover; z-index: -1;">
+    <source src="your-matrix-video.mp4" type="video/mp4">
+  </video>
+
+  <!-- Your Content -->
+  <div style="position: relative; padding: 50px;">
+    <h3>About Me</h3>
+    <p>
+      🎓 Student at <b>Sabaragamuwa University of Sri Lanka</b> <br>
+      🌱 Focusing on <b>Java, Web Development, Networking, Project Planning, and UI/UX Designing</b> <br>
+      📫 Reach me at <a href="mailto:dinalthathsaraperaketiya@gmail.com"><b>dinalthathsaraperaketiya@gmail.com</b></a> <br>
+      🤝 Open to <b>beginner-friendly projects & learning together</b> <br>
+      🎯 Goal: <b>Improve my skills, start an IT company, and create my own video game</b> <br>
+    </p>
+  </div>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
